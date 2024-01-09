@@ -1,0 +1,13 @@
+shtml, body{    
+    width: auto;
+    height: 100%;
+    top: 66.13px;
+    --overflow: hidden;
+
+}
+div#root{
+    background-color: antiquewhite;
+    margin-top: 66.13px;
+    width: auto;
+    height: 100%;
+}
