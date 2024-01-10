@@ -1,8 +1,10 @@
 import { Link } from "./Enrutamiento"
 import './About.css'
+import { Navegar } from "./Navegacion"
 export function About(){
     return(
         <>
+        <Navegar />
         <div  className="contenedor">
             <div className="book">
                 <p>Hello</p>

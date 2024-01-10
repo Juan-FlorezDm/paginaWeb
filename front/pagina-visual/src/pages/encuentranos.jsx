@@ -1,7 +1,10 @@
-import { Link } from "./Enrutamiento"
+import { Link} from "./Enrutamiento"
+import { Navegar } from "./Navegacion"
+
 export function Contacto(){
     return( 
         <>
+        <Navegar />
             <h1>encuentranos en los siguientes lugares: </h1>
              <div>
                 <a href="/encuentranos">
